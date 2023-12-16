@@ -14,7 +14,7 @@ public class Calculator {
         Scanner input3 = new Scanner(System.in);
         System.out.println("Input angka kedua: ");
         int b = input3.nextInt();
-        int hasil = 0;3
+        int hasil = 0;
 
         switch (c) {
             case ("+"):
